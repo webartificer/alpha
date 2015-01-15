@@ -1,1 +1,1 @@
-# FINAL PROJECT BEGINNINGS, IDEAS AND SNIPPETS
+## Final Project - Ideas, Features & Snippets
