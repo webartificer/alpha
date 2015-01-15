@@ -2,6 +2,8 @@
 
 This application will catalog, monitor and display bookmarks.
 
+![Qlink](/img/qlink.png)
+
 Some of the features that make this application unique are:
 - url validation (similar to bookmark sentry)
 - drag and drop ordering
