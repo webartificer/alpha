@@ -1,4 +1,5 @@
-## Final Project - Ideas, Features & Snippets
+## Final Project
+### Ideas, Features & Snippets
 
 This application will catalog, monitor and display bookmarks.
 
